@@ -18,9 +18,7 @@ Everything is written from scratch except the data split, discretiser and metric
 pmsgd_pidd_ga_pso.ipynb   the whole experiment (run this)
 data/diabetes.csv         PIDD: 768 patients (268 diabetic, 500 not), 8 features + Outcome
 azad2021.pdf              the paper
-results/                  created on the first run (see "Outputs")
 laporan_gambar/           figures used in the report
-Laporan_Akhir.*           final report (Indonesian)
 ```
 
 ## Setup
